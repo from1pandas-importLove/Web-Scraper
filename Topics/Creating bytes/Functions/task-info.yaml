@@ -1,0 +1,29 @@
+type: matching
+captions:
+  - <code>bytes()</code>
+  - <code>encode()</code>
+  - <code>to_bytes()</code>
+  - <code>decode()</code>
+  - <code>from_bytes()</code>
+  - <code>bytearray()</code>
+options:
+  - a string method for creating bytes
+  - converts bytes to integers
+  - converts strings and lists of integers into bytes
+  - converts bytes to strings
+  - an integer method for creating bytes
+  - a mutable counterpart of <code>bytes()</code>
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15481#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
