@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://cogniterra.org/media/attachments/lesson/25282/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Sun, 26 Jan 2025 21:34:25 UTC"
+update_date: "Fri, 31 Jan 2025 14:55:18 UTC"
 stages:
   - id: 781
     step: 11755
@@ -16,10 +16,10 @@ stages:
     is_completed: true
   - id: 784
     step: 11758
-    is_completed: false
+    is_completed: true
   - id: 785
     step: 11759
-    is_completed: false
+    is_completed: true
 topics:
   0:
     - title: Operating systems
